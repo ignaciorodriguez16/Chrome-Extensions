@@ -1,12 +1,12 @@
 body {
-  background: url('url') !important;
+  background: url('https://media.giphy.com/media/vDp31UMIKMwzC/giphy.gif') !important;
 }
  
 #masthead,
 #primary {
   -webkit-filter: invert(100%);
   filter: invert(100%);
-  background-color: #fff;
+  background-color: red;
   padding: 20px !important;
 }
 #masthead {
